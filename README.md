@@ -1,6 +1,9 @@
 # hierarchical-reconstruction-of-graph
 Literatures on Hierarchical Reconstruction of Flat Graph With Given Perspective.
 
+#### keyword
+Hierarchical Pattern Discovery in Graphs
+
 ## Example
 
 Query: "Let me see the graph in hierarchy upon the perspective of special interest"
