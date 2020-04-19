@@ -3,7 +3,7 @@ Literatures on Hierarchical Reconstruction of Flat Graph With Given Perspective.
 
 ## Goals
 Hierarchical Graph Reconstruction upon given scopic-interest
-- e.g. “Please hierarchically reconstruct the given flat graph into the multi-level graph in terms of special interest group”
+- e.g. “Hierarchically reconstruct the given flat graph into the multi-level graph in terms of special interest group”
 
 #### keyword
 Hierarchical Pattern Discovery in Graphs
